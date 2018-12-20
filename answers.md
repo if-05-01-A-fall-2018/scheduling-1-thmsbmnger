@@ -11,7 +11,7 @@
 
 sum = msec * (2 + 7 + 15 + 27 + 43 + 64 + 98 + 153) = __409 msec__
 
-average = 409 msec / 8 = __51.125__
+average = 409 msec / 8 = __51.125 msec__
 
 ---
 ## Question 3
